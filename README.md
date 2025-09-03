@@ -3,7 +3,7 @@ Hi there, I'm Matthew Ford! I'm currently a Data Analyst at AGL Energy with a st
 
 ## Technical Skills
 - **Languages**: Python, C/C++, SQL, JavaScript/TypeScript
-- **Frameworks/Libraries**: Numpy, Pandas, Torch, FastAPI, Torch, VueJS
+- **Frameworks/Libraries**: Numpy, Pandas, Torch, FastAPI, VueJS
 - **Tools/Platforms**: GitHub, Azure, Jira
 - **Data Science & ML/AI**: Proficient in machine learning and data science concepts and applying these to real world problems.
 
