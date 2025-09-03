@@ -2,8 +2,8 @@
 Hi there, I'm Matthew Ford! I'm currently a Data Analyst at AGL Energy with a strong passion in low-level systems programming, data science and ML/AI. I studied Mechatronic Engineering at The University of Sydney and completed an honours thesis on landform classification from satellite elevation data using the PointNet deep learning model.
 
 ## Technical Skills
-- **Languages**: Python, C/C++, SQL, JavaScript/TypeScript
-- **Frameworks/Libraries**: Numpy, Pandas, Torch, FastAPI, VueJS
+- **Languages**: Python, C/C++, SQL
+- **Frameworks/Libraries**: Numpy, Pandas, Torch, FastAPI, Azure SDK
 - **Tools/Platforms**: GitHub, Azure, Jira
 - **Data Science & ML/AI**: Proficient in machine learning and data science concepts and applying these to real world problems.
 
